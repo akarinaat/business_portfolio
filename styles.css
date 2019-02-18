@@ -64,3 +64,10 @@ img{
   color:black;
   
 }
+
+#labact{
+  width: 30%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
